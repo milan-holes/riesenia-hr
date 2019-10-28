@@ -15,7 +15,7 @@ yarn global add @vue/cli
     - stránka bude responzívna do 320px 
     - stránku bude možné prehliadať na všetkých moderných prehliadačoch (Chrome, Firefox, Safari, Edge)
 
-[logo]: https://raw.githubusercontent.com/m1l4n/riesenia-hr/master/js-developer/design/result.png
+![alt text](https://raw.githubusercontent.com/m1l4n/riesenia-hr/master/js-developer/design/result.png "Nákupný košík")
 
 2. krok: Interakcia
     - produkty môžu byť definované ako statické pole, viď. v komponente Cart.vue
